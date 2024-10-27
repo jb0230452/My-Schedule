@@ -1,32 +1,37 @@
-html{
+html {
     background-color: black;
 }
-body{
+
+body {
     background-color: honeydew;
     border-radius: 25px;
-    
-    
+
+
 }
-footer{
+
+footer {
     text-align: center;
     padding-top: 500px;
 }
+
 .smooch-regular {
     font-family: "Smooch", cursive;
     font-weight: 400;
     font-style: normal;
     text-align: center;
-  }
-table{
+}
+
+table {
     border: 8px double purple;
     border-radius: 25px;
     background-color: bisque;
     margin: auto;
     width: 75%;
     padding: 10px;
-    
+
 }
-td{
+
+td {
     font-family: "Smooch", cursive;
     font-weight: 400;
     font-style: normal;
@@ -36,7 +41,8 @@ td{
     text-align: center;
     padding: 8px
 }
-th{
+
+th {
     font-size: large;
     font-family: "Smooch", cursive;
     font-weight: 800;
@@ -44,16 +50,18 @@ th{
     padding-bottom: 8px;
 }
 
-#campus{
+#campus {
     display: block;
     width: 98%;
     padding: 10px 8px;
     border-radius: 25px;
     margin: auto;
 }
-.titles{
+
+.titles {
     border: 2px solid black;
 }
-.empty{
+
+.empty {
     background-color: darkgray
 }
