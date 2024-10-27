@@ -1,10 +1,51 @@
-
+html{
+    background-color: black;
+}
+body{
+    background-color: honeydew;
+    border-radius: 25px;
+    
+    
+}
+footer{
+    text-align: center;
+    padding-top: 500px;
+}
+.smooch-regular {
+    font-family: "Smooch", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+  }
 table{
-    border: 1px double olivedrab;
+    border: 8px double purple;
+    border-radius: 25px;
     background-color: bisque;
+    margin: auto;
+    width: 75%;
+    
 }
 td{
-    border: 1px solid olivedrab;
+    font-family: "Smooch", cursive;
+    font-weight: 400;
+    font-style: normal;
+    border: 1px solid black;
+    border-radius: 5%;
     width: 200px;
     text-align: center;
+    padding: 8px
+}
+th{
+    font-size: large;
+    font-family: "Smooch", cursive;
+    font-weight: 800;
+    font-style: normal;
+}
+
+#campus{
+    display: block;
+    width: 98%;
+    padding: 5px 5px;
+    border-radius: 25px;
+    margin: auto;
 }
