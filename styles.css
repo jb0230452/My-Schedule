@@ -23,6 +23,7 @@ table{
     background-color: bisque;
     margin: auto;
     width: 75%;
+    padding: 10px;
     
 }
 td{
@@ -30,7 +31,7 @@ td{
     font-weight: 400;
     font-style: normal;
     border: 1px solid black;
-    border-radius: 5%;
+    border-radius: 5px;
     width: 200px;
     text-align: center;
     padding: 8px
@@ -40,12 +41,19 @@ th{
     font-family: "Smooch", cursive;
     font-weight: 800;
     font-style: normal;
+    padding-bottom: 8px;
 }
 
 #campus{
     display: block;
     width: 98%;
-    padding: 5px 5px;
+    padding: 10px 8px;
     border-radius: 25px;
     margin: auto;
+}
+.titles{
+    border: 2px solid black;
+}
+.empty{
+    background-color: darkgray
 }
